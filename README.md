@@ -7,7 +7,7 @@ Trabalho final da disciplina Arquitetura Dot Net.
 **_FREDERICO BITENCOURT_**
 
 
-## Trabalho prático
+## Abaixo a descrição do trabalho prático enviado pelo professor.
 
 O Trabalho consiste em fazer comunicação entre camadas no .NET
 
