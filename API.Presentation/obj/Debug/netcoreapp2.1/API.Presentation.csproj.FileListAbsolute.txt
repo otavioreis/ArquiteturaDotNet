@@ -1,0 +1,14 @@
+C:\Users\otavi\source\repos\TrabalhoFinalArquiteturaDotNet\API.Presentation\bin\Debug\netcoreapp2.1\API.Presentation.deps.json
+C:\Users\otavi\source\repos\TrabalhoFinalArquiteturaDotNet\API.Presentation\bin\Debug\netcoreapp2.1\API.Presentation.runtimeconfig.json
+C:\Users\otavi\source\repos\TrabalhoFinalArquiteturaDotNet\API.Presentation\bin\Debug\netcoreapp2.1\API.Presentation.runtimeconfig.dev.json
+C:\Users\otavi\source\repos\TrabalhoFinalArquiteturaDotNet\API.Presentation\bin\Debug\netcoreapp2.1\API.Presentation.dll
+C:\Users\otavi\source\repos\TrabalhoFinalArquiteturaDotNet\API.Presentation\obj\Debug\netcoreapp2.1\API.Presentation.csprojAssemblyReference.cache
+C:\Users\otavi\source\repos\TrabalhoFinalArquiteturaDotNet\API.Presentation\obj\Debug\netcoreapp2.1\API.Presentation.csproj.CoreCompileInputs.cache
+C:\Users\otavi\source\repos\TrabalhoFinalArquiteturaDotNet\API.Presentation\obj\Debug\netcoreapp2.1\API.Presentation.RazorAssemblyInfo.cache
+C:\Users\otavi\source\repos\TrabalhoFinalArquiteturaDotNet\API.Presentation\obj\Debug\netcoreapp2.1\API.Presentation.RazorAssemblyInfo.cs
+C:\Users\otavi\source\repos\TrabalhoFinalArquiteturaDotNet\API.Presentation\obj\Debug\netcoreapp2.1\API.Presentation.AssemblyInfoInputs.cache
+C:\Users\otavi\source\repos\TrabalhoFinalArquiteturaDotNet\API.Presentation\obj\Debug\netcoreapp2.1\API.Presentation.AssemblyInfo.cs
+C:\Users\otavi\source\repos\TrabalhoFinalArquiteturaDotNet\API.Presentation\obj\Debug\netcoreapp2.1\API.Presentation.RazorTargetAssemblyInfo.cache
+C:\Users\otavi\source\repos\TrabalhoFinalArquiteturaDotNet\API.Presentation\bin\Debug\netcoreapp2.1\API.Presentation.pdb
+C:\Users\otavi\source\repos\TrabalhoFinalArquiteturaDotNet\API.Presentation\obj\Debug\netcoreapp2.1\API.Presentation.dll
+C:\Users\otavi\source\repos\TrabalhoFinalArquiteturaDotNet\API.Presentation\obj\Debug\netcoreapp2.1\API.Presentation.pdb

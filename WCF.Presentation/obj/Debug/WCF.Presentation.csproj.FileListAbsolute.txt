@@ -1,0 +1,12 @@
+C:\Users\otavi\source\repos\TrabalhoFinalArquiteturaDotNet\WCF.Presentation\bin\WCF.Presentation.dll.config
+C:\Users\otavi\source\repos\TrabalhoFinalArquiteturaDotNet\WCF.Presentation\bin\WCF.Presentation.dll
+C:\Users\otavi\source\repos\TrabalhoFinalArquiteturaDotNet\WCF.Presentation\bin\WCF.Presentation.pdb
+C:\Users\otavi\source\repos\TrabalhoFinalArquiteturaDotNet\WCF.Presentation\bin\Newtonsoft.Json.dll
+C:\Users\otavi\source\repos\TrabalhoFinalArquiteturaDotNet\WCF.Presentation\bin\WCF.Contratos.dll
+C:\Users\otavi\source\repos\TrabalhoFinalArquiteturaDotNet\WCF.Presentation\bin\WCF.Contratos.pdb
+C:\Users\otavi\source\repos\TrabalhoFinalArquiteturaDotNet\WCF.Presentation\bin\Newtonsoft.Json.xml
+C:\Users\otavi\source\repos\TrabalhoFinalArquiteturaDotNet\WCF.Presentation\obj\Debug\WCF.Presentation.csprojAssemblyReference.cache
+C:\Users\otavi\source\repos\TrabalhoFinalArquiteturaDotNet\WCF.Presentation\obj\Debug\WCF.Presentation.csproj.CoreCompileInputs.cache
+C:\Users\otavi\source\repos\TrabalhoFinalArquiteturaDotNet\WCF.Presentation\obj\Debug\WCF.Presentation.csproj.CopyComplete
+C:\Users\otavi\source\repos\TrabalhoFinalArquiteturaDotNet\WCF.Presentation\obj\Debug\WCF.Presentation.dll
+C:\Users\otavi\source\repos\TrabalhoFinalArquiteturaDotNet\WCF.Presentation\obj\Debug\WCF.Presentation.pdb

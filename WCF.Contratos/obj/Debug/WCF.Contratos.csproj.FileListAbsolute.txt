@@ -1,0 +1,6 @@
+C:\Users\otavi\source\repos\TrabalhoFinalArquiteturaDotNet\WCF.Contratos\bin\Debug\WCF.Contratos.dll
+C:\Users\otavi\source\repos\TrabalhoFinalArquiteturaDotNet\WCF.Contratos\bin\Debug\WCF.Contratos.pdb
+C:\Users\otavi\source\repos\TrabalhoFinalArquiteturaDotNet\WCF.Contratos\obj\Debug\WCF.Contratos.csprojAssemblyReference.cache
+C:\Users\otavi\source\repos\TrabalhoFinalArquiteturaDotNet\WCF.Contratos\obj\Debug\WCF.Contratos.csproj.CoreCompileInputs.cache
+C:\Users\otavi\source\repos\TrabalhoFinalArquiteturaDotNet\WCF.Contratos\obj\Debug\WCF.Contratos.dll
+C:\Users\otavi\source\repos\TrabalhoFinalArquiteturaDotNet\WCF.Contratos\obj\Debug\WCF.Contratos.pdb
