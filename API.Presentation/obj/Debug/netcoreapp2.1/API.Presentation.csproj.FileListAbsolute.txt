@@ -12,3 +12,17 @@ C:\Users\otavi\source\repos\TrabalhoFinalArquiteturaDotNet\API.Presentation\obj\
 C:\Users\otavi\source\repos\TrabalhoFinalArquiteturaDotNet\API.Presentation\bin\Debug\netcoreapp2.1\API.Presentation.pdb
 C:\Users\otavi\source\repos\TrabalhoFinalArquiteturaDotNet\API.Presentation\obj\Debug\netcoreapp2.1\API.Presentation.dll
 C:\Users\otavi\source\repos\TrabalhoFinalArquiteturaDotNet\API.Presentation\obj\Debug\netcoreapp2.1\API.Presentation.pdb
+C:\GITHUB\ArquiteturaDotNet\API.Presentation\bin\Debug\netcoreapp2.1\API.Presentation.deps.json
+C:\GITHUB\ArquiteturaDotNet\API.Presentation\bin\Debug\netcoreapp2.1\API.Presentation.runtimeconfig.json
+C:\GITHUB\ArquiteturaDotNet\API.Presentation\bin\Debug\netcoreapp2.1\API.Presentation.runtimeconfig.dev.json
+C:\GITHUB\ArquiteturaDotNet\API.Presentation\bin\Debug\netcoreapp2.1\API.Presentation.dll
+C:\GITHUB\ArquiteturaDotNet\API.Presentation\bin\Debug\netcoreapp2.1\API.Presentation.pdb
+C:\GITHUB\ArquiteturaDotNet\API.Presentation\obj\Debug\netcoreapp2.1\API.Presentation.csprojAssemblyReference.cache
+C:\GITHUB\ArquiteturaDotNet\API.Presentation\obj\Debug\netcoreapp2.1\API.Presentation.csproj.CoreCompileInputs.cache
+C:\GITHUB\ArquiteturaDotNet\API.Presentation\obj\Debug\netcoreapp2.1\API.Presentation.RazorAssemblyInfo.cache
+C:\GITHUB\ArquiteturaDotNet\API.Presentation\obj\Debug\netcoreapp2.1\API.Presentation.RazorAssemblyInfo.cs
+C:\GITHUB\ArquiteturaDotNet\API.Presentation\obj\Debug\netcoreapp2.1\API.Presentation.AssemblyInfoInputs.cache
+C:\GITHUB\ArquiteturaDotNet\API.Presentation\obj\Debug\netcoreapp2.1\API.Presentation.AssemblyInfo.cs
+C:\GITHUB\ArquiteturaDotNet\API.Presentation\obj\Debug\netcoreapp2.1\API.Presentation.RazorTargetAssemblyInfo.cache
+C:\GITHUB\ArquiteturaDotNet\API.Presentation\obj\Debug\netcoreapp2.1\API.Presentation.dll
+C:\GITHUB\ArquiteturaDotNet\API.Presentation\obj\Debug\netcoreapp2.1\API.Presentation.pdb

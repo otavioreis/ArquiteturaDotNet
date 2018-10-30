@@ -10,3 +10,15 @@ C:\Users\otavi\source\repos\TrabalhoFinalArquiteturaDotNet\WCF.Presentation\obj\
 C:\Users\otavi\source\repos\TrabalhoFinalArquiteturaDotNet\WCF.Presentation\obj\Debug\WCF.Presentation.csproj.CopyComplete
 C:\Users\otavi\source\repos\TrabalhoFinalArquiteturaDotNet\WCF.Presentation\obj\Debug\WCF.Presentation.dll
 C:\Users\otavi\source\repos\TrabalhoFinalArquiteturaDotNet\WCF.Presentation\obj\Debug\WCF.Presentation.pdb
+C:\GITHUB\ArquiteturaDotNet\WCF.Presentation\bin\WCF.Presentation.dll.config
+C:\GITHUB\ArquiteturaDotNet\WCF.Presentation\bin\WCF.Presentation.dll
+C:\GITHUB\ArquiteturaDotNet\WCF.Presentation\bin\WCF.Presentation.pdb
+C:\GITHUB\ArquiteturaDotNet\WCF.Presentation\bin\Newtonsoft.Json.dll
+C:\GITHUB\ArquiteturaDotNet\WCF.Presentation\bin\WCF.Contratos.dll
+C:\GITHUB\ArquiteturaDotNet\WCF.Presentation\bin\WCF.Contratos.pdb
+C:\GITHUB\ArquiteturaDotNet\WCF.Presentation\bin\Newtonsoft.Json.xml
+C:\GITHUB\ArquiteturaDotNet\WCF.Presentation\obj\Debug\WCF.Presentation.csprojAssemblyReference.cache
+C:\GITHUB\ArquiteturaDotNet\WCF.Presentation\obj\Debug\WCF.Presentation.csproj.CoreCompileInputs.cache
+C:\GITHUB\ArquiteturaDotNet\WCF.Presentation\obj\Debug\WCF.Presentation.csproj.CopyComplete
+C:\GITHUB\ArquiteturaDotNet\WCF.Presentation\obj\Debug\WCF.Presentation.dll
+C:\GITHUB\ArquiteturaDotNet\WCF.Presentation\obj\Debug\WCF.Presentation.pdb
