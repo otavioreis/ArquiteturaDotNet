@@ -1,5 +1,5 @@
 # ArquiteturaDotNet
-Trabalho final da disciplina Arquitetura Dot Net.
+Trabalho final da disciplina Arquitetura Dot Net onde se explora o conceito do uso de WCF e WCF REST, API REST utilizando .netcore 2.1, além de filas utilizando o Microsoft Message Queuing (MSMQ) - implementando um produtor e um consumidor.
 
 ## Grupo
 **_MATEUS SORIANO_** <br />
